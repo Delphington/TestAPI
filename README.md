@@ -1,3 +1,1 @@
-вsdadasdaCapybara
-da
-ауы
+VAPYBARA
